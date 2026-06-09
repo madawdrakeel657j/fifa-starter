@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://madawdrakeel657j.github.io/fifa-starter/sitemap.xml
